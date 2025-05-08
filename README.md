@@ -5,7 +5,7 @@ https://conways-gol-v2mv.vercel.app/
 
 About Conway's Game of Life (Wiki) - https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
-![image](https://github.com/user-attachments/assets/e0987741-3dfc-4cad-b643-330242c18fa1)
+![image] (./conway.gif)
 
 
 =======
